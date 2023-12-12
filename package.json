@@ -21,7 +21,7 @@
         "access": "public"
     },
     "dependencies": {
-        "react-native-eva-icons": "ijasxyz/react-native-eva-icons#master"
+        "react-native-eva-icons": "ijasxyz/react-native-eva-icons#main"
     },
     "peerDependencies": {
         "@ui-kitten/components": "5.3.1",
